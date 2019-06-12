@@ -1,0 +1,121 @@
+
+body
+{
+  font-family: "Montserrat"
+}
+
+
+#title
+{
+  background-color: lightblue;
+}
+
+h1
+{
+font-family: 'Bree Serif', serif;
+  font-size: 4rem;
+  line-height:1.5;
+}
+
+.container-fluid
+{
+
+  padding:3% 15%;
+}
+
+.col-4
+{
+  padding:3%;
+}
+
+.imageone
+{
+
+/* transform: rotate(41deg); /* IE 9 */ */
+height: 450px;
+width: 450px;
+
+}
+
+.feature-box
+{
+text-align: center;
+padding: 5%;
+
+}
+#features
+{
+
+padding: 10% 15%;
+}
+h3
+{
+  font-family: "Montserrat"
+
+}
+.icon
+{
+color: #ef8172;
+margin-bottom: 1rem;
+
+}
+.icon:hover{
+  color: #ff4c68;
+}
+/* testemonial section  */
+
+#testimonials
+{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: lightblue;
+}
+
+h2
+{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.6;
+color: white;
+}
+
+.testimonial-image
+{
+
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press
+{
+  background-color: lightblue;
+  text-align: center;
+  padding-bottom: 3%;
+
+}
+.press-logo
+{
+
+  width: 15%;
+  margin:20px 20px 50px;
+}
+#footer
+{
+  padding:12px;
+color:black;
+background-color:lightblue;
+
+}
+.card-footer
+{
+background-color: lightblue;
+text-align: center;
+
+}
+
+.btn
+{
+
+  background-color:white; 
+}
